@@ -3,3 +3,4 @@
 2-bring_me_home is  shell script that changes the working directory to the user’s home directory using cd.
 3-listfiles is shell script like  1-listit and we add '-l' flag or option.
 4-listfiles is shell script like  1-listit and we add '-la' flag or option.
+5-listfilesdigitonly is shell script like  1-listit and we add '-lan' flag or option.
